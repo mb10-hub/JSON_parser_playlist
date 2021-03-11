@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project4">
+				<Option output="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/project4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 project4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project4/fast">
+				<Option output="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/project4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 project4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/marcobarragan/ClionProjects/CS315/project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Album.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Album.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/AlbumImage.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/AlbumImage.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/AlbumImages.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/AlbumImages.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Albums.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Albums.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Artist.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Artist.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/ArtistImage.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/ArtistImage.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/ArtistImages.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/ArtistImages.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Artists.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Artists.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/JSONArray.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/JSONArray.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/JSONDataObject.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/JSONDataObject.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Pair.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Pair.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Tokenizer.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Tokenizer.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Track.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Track.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Tracks.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/Tracks.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/WriteHTML.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/WriteHTML.hpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/main.cpp">
+			<Option target="project4"/>
+		</Unit>
+		<Unit filename="/Users/marcobarragan/ClionProjects/CS315/project4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
